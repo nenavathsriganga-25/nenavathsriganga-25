@@ -53,6 +53,16 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · Comput
 ![Microsoft Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nenavathsriganga-25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenavathsriganga-25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nenavathsriganga-25&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🎯 Currently
 
@@ -62,8 +72,18 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · Comput
 🚀 Looking for opportunities to learn, contribute, and build impactful software
 
 
+### 🤝 Let's Connect
 
+**Open to internship and job opportunities** in:
 
+`AI & Systems` · `Full-Stack Development` · `Low-Level Engineering`
+
+**Let's connect and build something interesting together!**
+
+<p>
+  <a href="(https://www.linkedin.com/in/nenavathsriganga/)">LinkedIn</a> ·
+  <a href="mailto:nenavathsriganga25@gmail.com">Email</a>
+</p>
 <!--
 **nenavathsriganga-25/nenavathsriganga-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
