@@ -15,24 +15,43 @@ I love **designing, building, and turning ideas into something useful.** I'm cur
 ### 💻 Tech Stack
 
 **Languages:**
-<img src="https://skillicons.dev/icons?i=python" width="18"/> Python · <img src="https://skillicons.dev/icons?i=c" width="18"/> C · <img src="https://skillicons.dev/icons?i=cpp" width="18"/> C++ · <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript · <img src="https://skillicons.dev/icons?i=html" width="18"/> HTML · <img src="https://skillicons.dev/icons?i=css" width="18"/> CSS
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frontend:**
-<img src="https://skillicons.dev/icons?i=react" width="18"/> React · <img src="https://skillicons.dev/icons?i=tailwind" width="18"/> Tailwind CSS
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend:**
-<img src="https://skillicons.dev/icons?i=flask" width="18"/> Flask · <img src="https://skillicons.dev/icons?i=nodejs" width="18"/> Node.js · <img src="https://skillicons.dev/icons?i=express" width="18"/> Express.js
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Databases:**
-<img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL · <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB · <img src="https://skillicons.dev/icons?i=sqlite" width="18"/> SQLite
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Core CS:**
+
 Data Structures & Algorithms · Operating Systems · Computer Networks · Computer Architecture
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git" width="18"/> Git · <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub · <img src="https://skillicons.dev/icons?i=vscode" width="18"/> VS Code · <img src="https://skillicons.dev/icons?i=jupyter" width="18"/> Jupyter Notebook · 📄 MS Word · 📊 MS Excel
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 
 ### 🎯 Currently
