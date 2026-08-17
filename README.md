@@ -15,25 +15,56 @@ I love **designing, building, and turning ideas into something useful.** I'm cur
 
 ### 💻 Tech Stack
 
-**Languages:**  
-Python · C · C++ · JavaScript · HTML · CSS
+**Languages:**
 
-**Frontend:**  
-React · Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+</p>
 
-**Backend:**  
-Flask · Node.js · Express.js
+**Frontend:**
 
-**Databases:**  
-MySQL · MongoDB · SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+</p>
 
-**Core CS:**  
+**Backend:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
+</p>
+
+**Databases:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite"/>
+</p>
+
+**Core CS:**
+
 Data Structures & Algorithms · Operating Systems · Computer Networks · Computer Architecture
 
 ### 🛠️ Tools & Technologies
 
-Git · GitHub · VS Code · Jupyter Notebook · MS Word · MS Excel
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="Jupyter Notebook"/>
+</p>
 
+**Productivity:**
+
+📄 MS Word · 📊 MS Excel
 
 ### 🎯 Currently
 
