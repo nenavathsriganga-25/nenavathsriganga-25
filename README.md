@@ -12,59 +12,28 @@ I love **designing, building, and turning ideas into something useful.** I'm cur
 - 🏐 **Inter-IIT Volleyball Player** and sports enthusiast
 - 👥 Experience in **teamwork, leadership & event coordination**
 
-
 ### 💻 Tech Stack
 
 **Languages:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python" width="18"/> Python · <img src="https://skillicons.dev/icons?i=c" width="18"/> C · <img src="https://skillicons.dev/icons?i=cpp" width="18"/> C++ · <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript · <img src="https://skillicons.dev/icons?i=html" width="18"/> HTML · <img src="https://skillicons.dev/icons?i=css" width="18"/> CSS
 
 **Frontend:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react" width="18"/> React · <img src="https://skillicons.dev/icons?i=tailwind" width="18"/> Tailwind CSS
 
 **Backend:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flask" width="18"/> Flask · <img src="https://skillicons.dev/icons?i=nodejs" width="18"/> Node.js · <img src="https://skillicons.dev/icons?i=express" width="18"/> Express.js
 
 **Databases:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL · <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB · <img src="https://skillicons.dev/icons?i=sqlite" width="18"/> SQLite
 
 **Core CS:**
-
 Data Structures & Algorithms · Operating Systems · Computer Networks · Computer Architecture
 
 ### 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="Jupyter Notebook"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git" width="18"/> Git · <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub · <img src="https://skillicons.dev/icons?i=vscode" width="18"/> VS Code · <img src="https://skillicons.dev/icons?i=jupyter" width="18"/> Jupyter Notebook · 📄 MS Word · 📊 MS Excel
 
-**Productivity:**
 
-📄 MS Word · 📊 MS Excel
 
 ### 🎯 Currently
 
