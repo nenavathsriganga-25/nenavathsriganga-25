@@ -41,7 +41,7 @@ I love **designing, building, and turning ideas into something useful.** I'm cur
 
 **Core CS:**
 
-Data Structures & Algorithms · Operating Systems · Computer Networks · Computer Architecture
+Data Structures & Algorithms · Operating Systems · Compiler Design · Computer Architecture
 
 ### 🛠️ Tools & Technologies
 
