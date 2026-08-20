@@ -10,7 +10,6 @@ I love **designing, building, and turning ideas into something useful.** I'm cur
 - ⚙️ Experience with **Web Development, Backend Systems & Databases**
 - 🛠️ Enjoy building projects and learning through hands-on development
 - 🏐 **Inter-IIT Volleyball Player** and sports enthusiast
-- 👥 Experience in **teamwork, leadership & event coordination**
 
 ### 💻 Tech Stack
 
